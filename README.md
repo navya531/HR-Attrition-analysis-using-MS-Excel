@@ -26,7 +26,7 @@ The Attrition.xlsx file contains detailed data related to employee demographics,
 
 
 ## Dashboard
-https://mailmissouri-my.sharepoint.com/:x:/r/personal/ngmpw_umsystem_edu/Documents/Attrition.xlsx?d=w48d9bc7f2e3f4bd7a449430ca79f097e&csf=1&web=1&e=HW30o8&nav=MTVfe0EyNTJDNkUzLUQzNTktRUM0Qi05MzJGLThFQ0VCOTA3RjUzMX0
+![Attrition_Dashboard](https://github.com/user-attachments/assets/733d5a5a-517b-4a44-96af-c5ead397f36f)
 
 ## Results
 The analysis reveals key trends in employee attrition, such as the correlation between job satisfaction and turnover, the impact of salary on attrition, and the differences in attrition rates across departments.
